@@ -20,4 +20,11 @@ Features
 Use Case
 This project showcases how Large Language Models can be integrated into applications to build intelligent, context-aware systems—aligned with modern AI engineering roles.
 ## How to Run
-1. Install dependencies  
+1. Install dependencies
+2. 2. Open `QABot.ipynb`  
+3. Run all cells and ask questions
+
+## Example
+**Question:** What does Tata Digital build?  
+**Answer:** AI-powered platforms
+
